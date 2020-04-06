@@ -1,3 +1,5 @@
+require('./bootstrap')
+
 const express = require('express')
 
 class AppController {
